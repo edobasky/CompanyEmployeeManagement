@@ -1,0 +1,4 @@
+2022-05-15 16:38:52.4786 INFO Here is info messge from our values controller
+2022-05-15 16:38:52.5865 DEBUG Here is debug messge from our values controller
+2022-05-15 16:38:52.5928 WARN Here is info messge from our values controller
+2022-05-15 16:38:52.5928 ERROR Here is info messge from our values controller
